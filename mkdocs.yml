@@ -1,0 +1,4 @@
+site_name: Hello MkDocs Material
+site_url: https://jaredhatfield.github.io/hello-mkdocs-material/
+theme:
+  name: material
